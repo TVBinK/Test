@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <string-array name="countries">
+        <item>Viet Nam</item>
+        <item>Indonesia</item>
+        <item>Campuchia</item>
+        <item>Thailand</item>
+    </string-array>
+</resources>
